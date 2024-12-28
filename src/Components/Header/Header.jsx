@@ -11,6 +11,7 @@ import Notice from '../Notice/Notice';
 import MediaCoverage from '../MediaCoverage/MediaCoverage';
 import SectionWithCard from '../SectionWithCard/SectionWithCard';
 import SuccessStorySection from '../SuccessStorySection/SuccessStorySection';
+import StateSection from '../Stat/Stat'    //have to some work with this component
 
 const Header = () => {
   return (
@@ -27,6 +28,8 @@ const Header = () => {
             <TextBlock2></TextBlock2>
             <MediaCoverage></MediaCoverage>
             <ContactCard></ContactCard>
+           <StateSection></StateSection>     {/*/incompleted section  */}
+            
     </div>
     </div>
   );
