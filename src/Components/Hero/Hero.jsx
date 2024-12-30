@@ -48,6 +48,7 @@ const Hero = () => {
             
           </div>
         </SwiperSlide>
+        
         <SwiperSlide>
           <div className="title" data-swiper-parallax="-300">
             Slide 2
@@ -67,6 +68,7 @@ const Hero = () => {
             </p>
           </div>
         </SwiperSlide>
+
         <SwiperSlide>
           <div className="title" data-swiper-parallax="-300">
             Slide 3

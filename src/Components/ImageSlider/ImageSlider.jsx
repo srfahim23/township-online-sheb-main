@@ -34,7 +34,7 @@ const ImageSlider = () => {
         style={{ height: 'auto' }}
       >
         <SwiperSlide>
-          <img src={slider1} alt="Description of slider 1" className="w-full h-auto object-cover" />
+          <img src={slider1} alt="Description of slider 1" className="w-full  h-auto object-cover" />
         </SwiperSlide>
         <SwiperSlide>
           <img src={slider2} alt="Description of slider 2" className="w-full h-auto object-cover" />

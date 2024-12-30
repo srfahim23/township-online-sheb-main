@@ -48,6 +48,7 @@ const Footer = () => {
   const developers = [
     { name: "Sheikh Shaadi", role: "React Developer", location: "Madaripur, 7900", contact: "01956686338" },
     { name: "Sheik Ave Rajun", role: "Founder, Township Online Seba", location: "Khulna, 9000", contact: "" },
+    { name: "FAHIM FAYSAL", role: "FrontEnd Developer, Township Online Seba", location: "Sirajganj, 6720", contact: "019990565081" },
   ];
 
   return (
